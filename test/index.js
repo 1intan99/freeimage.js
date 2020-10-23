@@ -1,4 +1,4 @@
-const FreeImage = require('../lib');
+const FreeImage = require('../lib/main');
 
 const api = new FreeImage({
     key: process.env.KEY
