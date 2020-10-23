@@ -1,8 +1,8 @@
 {
   "name": "freeimage.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Lightweight Node.js module to easily upload image through freeimage.host API",
-  "main": "./lib/main.js",
+  "main": "lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
