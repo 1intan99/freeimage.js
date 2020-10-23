@@ -1,6 +1,6 @@
 {
   "name": "freeimage.js",
-  "version": "1.0.4",
+  "version": "2.0.1",
   "description": "A Lightweight Node.js module to easily upload image through freeimage.host API",
   "main": "lib/main.js",
   "scripts": {
