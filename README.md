@@ -1,3 +1,6 @@
+# What Is This?
+- A Lightweight Node.js module to easily upload image through [freeimage.host](https://freeimage.host/) API
+
 # Installation
 ```
 npm install node-freeimage --save
@@ -13,7 +16,7 @@ const api = new ClientApi({
 
 /**
  * @param { * } IMAGE Either a image URL or a base64 encoded image string. You can also use FILES["source"] in your request.. up to 32MB
- * /
+ **/
 
 api.upload("IMAGE URL").then(status => console.log(status))
 ```
