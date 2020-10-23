@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokisaki13/node-freeimage.git"
+    "url": "git+https://github.com/tokisaki13/freeimage.js.git"
   },
   "keywords": [
     "FreeImage",
@@ -19,7 +19,7 @@
   "author": "tokisaki13",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tokisaki13/node-freeimage/issues"
+    "url": "https://github.com/tokisaki13/freeimage.js/issues"
   },
   "homepage": "https://github.com/tokisaki13/node-freeimage#readme",
   "devDependencies": {
