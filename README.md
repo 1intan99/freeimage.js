@@ -23,7 +23,7 @@ api.upload("IMAGE URL").then(status => console.log(status))
 
 # Output
 
-```json
+```
 {
   success: true,
   status: 200,
