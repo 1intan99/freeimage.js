@@ -3,7 +3,7 @@
 
 # Installation
 ```
-npm install node-freeimage --save
+npm install freeimage.js --save
 ```
 
 # Usage
