@@ -8,7 +8,7 @@ npm install node-freeimage --save
 
 # Usage
 ```js
-const ClientApi = require("node-freeimage");
+const ClientApi = require("freeimage.js");
 
 const api = new ClientApi({
     key: "YOUR API KEY"
